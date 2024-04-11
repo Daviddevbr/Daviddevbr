@@ -3,7 +3,7 @@
 <h3 align="left">Connect with me!</h3>
 
 
-<a src="https://www.linkedin.com/in/link-davidqoliveira/"><img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-%20?style=for-the-badge&logo=linkedin&logoColor=%2397c900&labelColor=black&color=black&link=!%5BStatic%20Badge%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FPHOTO%2520SHOP-CODE%3Fstyle%3Dfor-the-badge%26logo%3Dadobephotoshop%26logoColor%3D%252302569B%26labelColor%3Dback%26color%3Dblack%26cacheSeconds%3Dhttps%253A%252F%252Fgithub.com%252FDaviddevbr)"></a>
+<a href="https://www.linkedin.com/in/link-davidqoliveira/"><img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-%20?style=for-the-badge&logo=linkedin&logoColor=%2397c900&labelColor=black&color=black&link=!%5BStatic%20Badge%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FPHOTO%2520SHOP-CODE%3Fstyle%3Dfor-the-badge%26logo%3Dadobephotoshop%26logoColor%3D%252302569B%26labelColor%3Dback%26color%3Dblack%26cacheSeconds%3Dhttps%253A%252F%252Fgithub.com%252FDaviddevbr)"></a>
 
 ![Static Badge](https://img.shields.io/badge/INTAGRAM-REDE?style=for-the-badge&logo=instagram&logoColor=%2318A303&labelColor=back&color=black](link=https%3A%2F%2Fwww.instagram.com%2Fdavid.qoliveira%2F))
 
