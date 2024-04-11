@@ -6,10 +6,6 @@
 <a href="https://www.linkedin.com/in/link-davidqoliveira/" target="_blank">![Static Badge](https://img.shields.io/badge/LINKEDIN-%20?style=for-the-badge&logo=LINKEDIN&logoColor=%2397c900&labelColor=black&color=black&cacheSeconds=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flink-davidqoliveira%2F)</a>
 <a href="https://www.instagram.com/david.qoliveira/" target="_blank"> ![Static Badge](https://img.shields.io/badge/instagram-%20?style=for-the-badge&logo=instagram&logoColor=%2397c900&labelColor=black&color=black&cacheSeconds=https%3A%2F%2Fwww.instagram.com%2Freel%2FC5k8gH5Ajfw%2F&link=https%3A%2F%2Fwww.instagram.com%2Freel%2FC5k8gH5Ajfw%2F)
 </a>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=%2397c900&color:FFF)](https://www.linkedin.com/in/mari4souza/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=%2397c900&color:FFF)](https://www.instagram.com/mari4.souza/)
-
-
 
 <h3 align="left">My Stack</h3>
 
