@@ -5,10 +5,8 @@
 
 <a href="https://www.linkedin.com/in/link-davidqoliveira/">![Static Badge](https://img.shields.io/badge/LINKEDIN-%20?style=for-the-badge&logo=LINKEDIN&logoColor=%2397c900&labelColor=black&color=black&cacheSeconds=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flink-davidqoliveira%2F)</a>
 
+ ![Static Badge](https://img.shields.io/badge/instagram-%20?style=for-the-badge&logo=instagram&logoColor=%2397c900&labelColor=black&color=black&cacheSeconds=https%3A%2F%2Fwww.instagram.com%2Freel%2FC5k8gH5Ajfw%2F&link=https%3A%2F%2Fwww.instagram.com%2Freel%2FC5k8gH5Ajfw%2F)
 
-
-
-![Static Badge](https://img.shields.io/badge/INTAGRAM-REDE?style=for-the-badge&logo=instagram&logoColor=%2318A303&labelColor=back&color=black](link=https%3A%2F%2Fwww.instagram.com%2Fdavid.qoliveira%2F))
 
 <h3 align="left">My Stack</h3>
 
