@@ -8,6 +8,7 @@
 <h3 align="left">My Stack</h3>
 
 ![Static Badge](https://img.shields.io/badge/HTML5-CODE?style=for-the-badge&logo=HTML5&logoColor=%23E34F26&labelColor=back&color=black&link=https%3A%2F%2Fwww.instagram.com%2Fdavid.qoliveira%2F)
+![Static Badge](https://img.shields.io/badge/CSS3-CODE?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=back&color=black&link=https%3A%2F%2Fwww.instagram.com%2Fdavid.qoliveira%2F)
 ![Static Badge](https://img.shields.io/badge/javascript-CODE?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=back&color=black&link=https%3A%2F%2Fwww.instagram.com%2Fdavid.qoliveira%2F)
 
 
