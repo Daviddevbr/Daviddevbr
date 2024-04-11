@@ -13,11 +13,3 @@
 ![Static Badge](https://img.shields.io/badge/DART-CODE?style=for-the-badge&logo=dart&logoColor=%230175C2&labelColor=back&color=black&link=https%3A%2F%2Fgithub.com%2FDaviddevbr)
 ![Static Badge](https://img.shields.io/badge/FLUTTER-CODE?style=for-the-badge&logo=FLUTTER&logoColor=%2302569B&labelColor=back&color=black&link=https%3A%2F%2Fgithub.com%2FDaviddevbr)
 ![Static Badge](https://img.shields.io/badge/PHOTO%20SHOP-CODE?style=for-the-badge&logo=adobephotoshop&logoColor=%2302569B&labelColor=back&color=black&link=https%3A%2F%2Fgithub.com%2FDaviddevbr)
-
-
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daviddevbr/Daviddevbr/output/github-contribution-grid-snake-dark.svg">
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daviddevbr/Daviddevbr/output/github-contribution-grid-snake.svg">
-   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Daviddevbr/Daviddevbr/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
