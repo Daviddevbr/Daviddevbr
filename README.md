@@ -7,13 +7,13 @@
 
 <h3 align="left">My Stack</h3>
 
-
+![Static Badge](https://img.shields.io/badge/javascript-CODE?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=back&color=black&link=https%3A%2F%2Fwww.instagram.com%2Fdavid.qoliveira%2F)
 
 
 
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daviddevbr/Daviddevbr/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daviddevbr/Daviddevbr/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Daviddevbr/Daviddevbr/output/github-contribution-grid-snake.svg">
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daviddevbr/Daviddevbr/output/github-contribution-grid-snake.svg">
+   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Daviddevbr/Daviddevbr/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
