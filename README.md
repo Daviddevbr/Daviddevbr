@@ -9,7 +9,7 @@
 
 ![Static Badge](https://img.shields.io/badge/HTML5-CODE?style=for-the-badge&logo=HTML5&logoColor=%23E34F26&labelColor=back&color=black&link=https%3A%2F%2Fgithub.com%2FDaviddevbr)
 ![Static Badge](https://img.shields.io/badge/CSS3-CODE?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=back&color=black&link=https%3A%2F%2Fgithub.com%2FDaviddevbr)
-![Static Badge](https://img.shields.io/badge/javascript-CODE?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black&link=https%3A%2F%2Fgithub.com%2FDaviddevbr)
+![Static Badge](https://img.shields.io/badge/JAVASCRIPT-CODE?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=back&color=black&link=https%3A%2F%2Fgithub.com%2FDaviddevbr)
 ![Static Badge](https://img.shields.io/badge/DART-CODE?style=for-the-badge&logo=dart&logoColor=%230175C2&labelColor=back&color=black&link=https%3A%2F%2Fgithub.com%2FDaviddevbr)
 
 
